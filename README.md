@@ -16,7 +16,7 @@ CSS3
 JavaScript
 
 # Como Jogar
-Acesse o link: [Jogo do Número Secreto ou abra o arquivo index.html no seu navegador.](https://jogo-do-numero-secreto-rose.vercel.app/)
+Acesse o link: https://jogo-do-numero-secreto-rose.vercel.app/
 
 ![Captura de tela 2024-09-27 210011](https://github.com/user-attachments/assets/0fa9a74b-b61a-4575-9a8d-856c5007e9fa)
 
